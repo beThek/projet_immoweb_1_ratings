@@ -1,6 +1,6 @@
 # Projet "Ratings immoweb"
 
-Presentaion du projet ( Valentin Cogels le 13/07/2017) :
+Presentation du projet ( Valentin Cogels le 13/07/2017) :
 
 [Compte rendu](https://docs.google.com/document/d/12fsR6lwEBXcak8GGR1ueJ2hGP_0_CZUkD9H72QY6BGU/edit#heading=h.gjdgxs)
 
