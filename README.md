@@ -2,7 +2,7 @@
 
 Compte rendu de la presentaion du projet ( Valentin Cogels le 13/07/2017) :
 
-[compte rendu] (https://docs.google.com/document/d/12fsR6lwEBXcak8GGR1ueJ2hGP_0_CZUkD9H72QY6BGU/edit#heading=h.gjdgxs)
+[compte rendu](https://docs.google.com/document/d/12fsR6lwEBXcak8GGR1ueJ2hGP_0_CZUkD9H72QY6BGU/edit#heading=h.gjdgxs)
 
 Team Members : 
 
