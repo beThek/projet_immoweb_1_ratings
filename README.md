@@ -6,7 +6,7 @@ Presentaion du projet ( Valentin Cogels le 13/07/2017) :
 
 Team Members : 
 
-   - Marcel B. [github]( https://github.com/KJayce)
+   - Jayce B. [github]( https://github.com/KJayce)
    - Kreshnik I. [github](https://github.com/beThek)
    - Thomas D. [github](https://github.com/Blutshy)
    - Hugo B. [github](https://github.com/kvalrie)
